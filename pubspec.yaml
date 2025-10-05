@@ -1,0 +1,35 @@
+name: visual_parts
+description: App de visualização de peças
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.5
+  google_mlkit_text_recognition: 0.13.0
+  image_picker: ^1.0.4
+  google_mlkit_commons: ^0.7.0
+  cupertino_icons: ^1.0.2
+  open_file: ^3.3.3
+  path_provider: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/database/
+    - assets/icons/
+    - assets/images/
+    - assets/pdf/
+    - assets/videos/

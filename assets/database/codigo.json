@@ -1,0 +1,364 @@
+{
+  "codigos": [
+    {
+      "codigo": "519546863",
+      "descricao": "REFORÇO PARA TRAVESSA PARABRISA",
+      "pagina": 2,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519447753",
+      "descricao": "REFORÇO CENTRAL EIXO TRANSMISSÃO",
+      "pagina": 4,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519481163",
+      "descricao": "DIAFRAGMA ESPANCÍVEL DIR.",
+      "pagina": 5,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519480593",
+      "descricao": "REFORÇO PAINEL DIR.",
+      "pagina": 6,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519480603",
+      "descricao": "REFORÇO DO PAINEL",
+      "pagina": 7,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519480583",
+      "descricao": "REFORÇO CENTRAL PAINEL",
+      "pagina": 8,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "520299483",
+      "descricao": "REFORÇO CENTRAL SOB LATERAL P/ PARALAMA",
+      "pagina": 9,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "520299493",
+      "descricao": "REFORCO CENTRAL SOBRE A LATERAL P/ PARAL",
+      "pagina": 10,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519498313",
+      "descricao": "REFORÇO FIX. BANCO LADO DIR.",
+      "pagina": 11,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519498333",
+      "descricao": "REFORÇO FIX. BANCO ESQ.",
+      "pagina": 12,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519481143",
+      "descricao": "REFORÇO FIX. PARALAMA DIR. SOBRE PONTEIRA",
+      "pagina": 13,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519481283",
+      "descricao": "REFORÇO FIX. PARALAMA ESO. SOBRE PONTEIRA",
+      "pagina": 14,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519475593",
+      "descricao": "REFORCO FECHADURA PORTA POSTER. DIR.",
+      "pagina": 15,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519498443",
+      "descricao": "REFORCO FECHADURA PORTA POSTER. ESQ.",
+      "pagina": 16,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519425053",
+      "descricao": "REFORCO FIX. PASSARODA POST. ESQ.",
+      "pagina": 17,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519425163",
+      "descricao": "REFORCO FIX. PASSARODA POST. DIR.",
+      "pagina": 18,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519480943",
+      "descricao": "REFORCO SUP FIXACAO PARALAMA DIR.",
+      "pagina": 19,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519481053",
+      "descricao": "REFORCO SUP. FIXACAO PARALAMA ESQ.",
+      "pagina": 20,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519480873",
+      "descricao": "REFORCO FIXACAO PARALAMA",
+      "pagina": 21,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519480993",
+      "descricao": "REFORCO FIXACAO PARALAMA",
+      "pagina": 22,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519579365",
+      "descricao": "SUPORTE CENTRAL COLIG. PAREDE TRANSV.",
+      "pagina": 23,
+      "tipo": "SUPORTE"
+    },
+    {
+      "codigo": "519814583",
+      "descricao": "REFORCO CENTRAL PAINEL",
+      "pagina": 24,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "522225390",
+      "descricao": "REFORCO SUP. PARALAMA ANT. ESQ.",
+      "pagina": 25,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "522225380",
+      "descricao": "REFORCO SUP. PARALAMA DIR.",
+      "pagina": 26,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519725250",
+      "descricao": "SUPORTE FIXACAO RESERVATORIO DIR.",
+      "pagina": 27,
+      "tipo": "SUPORTE"
+    },
+    {
+      "codigo": "519725260",
+      "descricao": "SUPORTE FIXACAO RESERVATORIO ESQ.",
+      "pagina": 28,
+      "tipo": "SUPORTE"
+    },
+    {
+      "codigo": "519481123",
+      "descricao": "REFORCO FIX. DOBRADICA DIR.",
+      "pagina": 29,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519481263",
+      "descricao": "REFORCO FIX. DOBRADICA ESQ.",
+      "pagina": 30,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519694383",
+      "descricao": "TRAVERSSA CENTRAL BANCO LADO DIR.",
+      "pagina": 31,
+      "tipo": "TRAVERSA"
+    },
+    {
+      "codigo": "519694393",
+      "descricao": "TRAVERSSA CENTRAL BANCO LADO ESQ.",
+      "pagina": 32,
+      "tipo": "TRAVERSA"
+    },
+    {
+      "codigo": "519475293",
+      "descricao": "REFORCO FECHADURA PORTA TRASEIRA",
+      "pagina": 33,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519475423",
+      "descricao": "REFORCO FECHADURA PORTA ANTERIOR ESQ.",
+      "pagina": 34,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "533275640",
+      "descricao": "REFORCO FECHAMENTO PORTA ESQ.",
+      "pagina": 35,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "533275530",
+      "descricao": "REFORCO FECHADURA PORTA DIR.",
+      "pagina": 36,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519426483",
+      "descricao": "REFORCO ESO. RESERVATORIO",
+      "pagina": 37,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519481223",
+      "descricao": "REFORCO FIXACAO DOBRADICA DIR.",
+      "pagina": 38,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519481363",
+      "descricao": "REFORCO FIX. DOBRADICA ESQ.",
+      "pagina": 39,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519475433",
+      "descricao": "REFORCO TIRANTE PORTA ANTERIOR ESQ.",
+      "pagina": 40,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519475303",
+      "descricao": "REFORCO TIRANTE PORTA ANT. DIR.",
+      "pagina": 41,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519427183",
+      "descricao": "REFORCO DE FIXACAO RESERVATORIO DE COMBUSTIVEL",
+      "pagina": 42,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "522043530",
+      "descricao": "REFORCO COMPLETO DOBRADICA CAPO DIR.",
+      "pagina": 43,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "522043550",
+      "descricao": "REFORCO COMPLETO DOBRADICA CAPO ESQ.",
+      "pagina": 44,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519426463",
+      "descricao": "FECHAMENTO PAVIMENTO LONGARINA POST. ESO.",
+      "pagina": 45,
+      "tipo": "FECHAMENTO"
+    },
+    {
+      "codigo": "519680913",
+      "descricao": "FECHAMENTO LONGARINA POST. DIR.",
+      "pagina": 46,
+      "tipo": "FECHAMENTO"
+    },
+    {
+      "codigo": "519480573",
+      "descricao": "REFORCO FIXACAO LIMPADOR PARABRISA",
+      "pagina": 47,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "520821650",
+      "descricao": "REFORCO FECHADURA PORTA TRASEIRA",
+      "pagina": 48,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "520634250",
+      "descricao": "REFORCO INTERNO TRASEIRO CAIXA DE RODA DIR.",
+      "pagina": 49,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "520634260",
+      "descricao": "REFORCO INTERNO DIANTEIRO CAIXA DE RODA ESQ.",
+      "pagina": 50,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "533845780",
+      "descricao": "REFORCO INTERNO TRASEIRO CAIXA DE RODA ESO.",
+      "pagina": 51,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "517500530",
+      "descricao": "REFORCO CAIXA DE VENTILACAO",
+      "pagina": 52,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519426053",
+      "descricao": "REFORCO FIX. BANCO DIR. COMPL.",
+      "pagina": 53,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519426503",
+      "descricao": "REFORCO INT. FIXACAO DO BANCO ESQ. COMP.",
+      "pagina": 54,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519546853",
+      "descricao": "REFORCO FIXACAO LIMPADOR CENTRAL",
+      "pagina": 55,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "518993193",
+      "descricao": "REFORCO FIX. RODA ESTEPE",
+      "pagina": 56,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519426473",
+      "descricao": "REFORCO DIR. RESERVATORIO",
+      "pagina": 57,
+      "tipo": "REFOR"
+    },
+    {
+      "codigo": "519425043",
+      "descricao": "TRAVA FIXAÇÃO BANCO TRASEIRO DIR.",
+      "pagina": 58,
+      "tipo": "TRAVA"
+    },
+    {
+      "codigo": "519425153",
+      "descricao": "TRAVA FIXAÇÃO BANCO TRASEIRO ESQ.",
+      "pagina": 59,
+      "tipo": "TRAVA"
+    },
+    {
+      "codigo": "5193617879",
+      "descricao": "SUPORTE",
+      "pagina": 60,
+      "tipo": "SUPORTE"
+    },
+    {
+      "codigo": "519361785",
+      "descricao": "CINTA SUSTENT. L/D RESERVATORIO COMBUSTI",
+      "pagina": 61,
+      "tipo": "CINTA"
+    },
+    {
+      "codigo": "519361795",
+      "descricao": "CINTA SUSTENT. L/E RESERVATORIO COMBUSTI",
+      "pagina": 63,
+      "tipo": "CINTA"
+    }
+  ]
+}
